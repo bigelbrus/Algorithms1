@@ -1,3 +1,5 @@
+package com.algorithms.lesson2;
+
 import java.lang.reflect.InvocationTargetException;
 import java.lang.reflect.Method;
 

@@ -1,3 +1,5 @@
+package com.algorithms.lesson2;
+
 public class MySortedArrayList<Item extends Comparable<Item>> extends MyArrayList<Item> {
     public void insert(Item item) {
         super.insert(item);

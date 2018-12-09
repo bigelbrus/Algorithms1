@@ -1,3 +1,5 @@
+package com.algorithms.lesson2;
+
 public class MyArrayList<Item extends Comparable<Item>> {
     private int size = 0;
     private Object[] list = new Object[1];
